@@ -1,0 +1,15 @@
+.myLink {
+    color: pink;
+}
+
+a:hover {
+    color: red;
+}
+
+a:focus {
+    color:magenta;
+}
+
+a:active {
+    color: black;
+}
